@@ -81,7 +81,7 @@ st.markdown("""
 def load_data():
     """Carrega e prepara os dados"""
     # Caminho correto para o arquivo CSV na pasta dados/
-    file_path = os.path.join('..','dados/processed', 'telco_churn_cleaned.csv')
+    file_path = os.path.join('dados/processed', 'telco_churn_cleaned.csv')
     
     if not os.path.exists(file_path):
         st.error(f"Arquivo não encontrado: {file_path}")
