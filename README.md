@@ -116,7 +116,7 @@ Análise completa dos dados com:
 
 ### 🔗 Acesse o Dashboard
 
-**Link dashboard:** `https://nqqrc44xbcasf6p5i6agwk.streamlit.app/`
+**Link dashboard:** [https://nqqrc44xbcasf6p5i6agwk.streamlit.app/]
 
 </div>
 
