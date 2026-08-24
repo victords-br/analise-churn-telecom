@@ -116,9 +116,7 @@ Análise completa dos dados com:
 
 ### 🔗 Acesse o Dashboard
 
-> ⚠️ **Nota:** O dashboard está rodando localmente no Metabase (porta 3000). Para acessá-lo, o Metabase precisa estar em execução no seu computador.
-
-**Link local:** `http://localhost:3000/public/dashboard/7cc54f1b-bd5c-4817-8dfd-c7f9a8c5d409`
+**Link dashboard:** `[http://localhost:3000/public/dashboard/7cc54f1b-bd5c-4817-8dfd-c7f9a8c5d409](https://nqqrc44xbcasf6p5i6agwk.streamlit.app/)`
 
 </div>
 
