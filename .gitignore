@@ -1,0 +1,132 @@
+# ============================
+# Python / Conda
+# ============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+*.egg
+
+# ============================
+# Ambientes Virtuais
+# ============================
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+*.conda
+*.lock
+conda-meta/
+envs/
+pkgs/
+
+# ============================
+# Jupyter Notebooks (checkpoints)
+# ============================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/
+.ipynb_cache/
+
+# ============================
+# Dados - IGNORAR DADOS BRUTOS!
+# ============================
+dados/raw/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.pickle
+*.joblib
+*.db
+*.sqlite
+
+# PERMITIR dados processados (opcional - você pode comentar se quiser subir)
+# dados/processed/
+
+# ============================
+# Imagens geradas (gráficos)
+# ============================
+image/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+!image/.gitkeep
+
+# ============================
+# Logs e temporários
+# ============================
+*.log
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ============================
+# IDE / Editores
+# ============================
+.vscode/
+.idea/
+*.iml
+.spyproject/
+.ropeproject/
+*.sublime-project
+*.sublime-workspace
+
+# ============================
+# Arquivos sensíveis
+# ============================
+.env
+.env.*
+secrets.toml
+*.pem
+*.key
+*.crt
+*.p12
+
+# ============================
+# Arquivos específicos do seu projeto
+# ============================
+aiodns.txt
+uv.lock
+package-lock.json
+*.lock
+
+# ============================
+# Streamlit
+# ============================
+.streamlit/secrets.toml
+.streamlit/*.tmp
+*.streamlit.log
+
+# ============================
+# Testes
+# ============================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.cover
+.hypothesis/
+
+# ============================
+# Mypy / Type Checking
+# ============================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
