@@ -32,7 +32,7 @@ A empresa estava perdendo clientes sem entender:
 Análise completa dos dados com:
 - Limpeza e tratamento usando Python/Pandas
 - Criação de novas variáveis (feature engineering)
-- Dashboard interativo no Metabase
+- Dashboard interativo no Streamlit
 - Insights acionáveis e recomendações estratégicas
 
 ---
@@ -67,14 +67,13 @@ Análise completa dos dados com:
 
 | Ferramenta | Finalidade |
 |------------|------------|
-| **Supabase** | Banco de dados na nuvem (PostgreSQL) |
-| **SQL** | Queries para análise |
+| **Arquivo CSV** | Banco de dados |
 
 ### 📊 Dashboard
 
 | Ferramenta | Finalidade |
 |------------|------------|
-| **Metabase** | Criação de dashboard interativo |
+| **Streamlit** | Criação de dashboard interativo |
 | **Public Link** | Compartilhamento do dashboard |
 
 ---
@@ -194,11 +193,10 @@ Análise completa dos dados com:
 |---------|------|
 | **📄 PDF do Dashboard** | [🔍 Visualizar](https://github.com/VictorDevAgencia74/analise-churn-telecom/blob/main/dashboard/dashboard_churn.pdf) / [⬇️ Baixar](https://raw.githubusercontent.com/VictorDevAgencia74/analise-churn-telecom/main/dashboard/dashboard_churn.pdf) |
 
-### 🚀 Dashboard Interativo (Metabase)
+### 🚀 Dashboard Interativo (Streamlit)
 
-> ⚠️ Rodando localmente. Para acessar, o Metabase precisa estar em execução.
 
-**Link local:** `http://localhost:3000/public/dashboard/7cc54f1b-bd5c-4817-8dfd-c7f9a8c5d409`
+**Link dashboard:** [https://nqqrc44xbcasf6p5i6agwk.streamlit.app/]
 
 ### 📁 Dados e Código
 
