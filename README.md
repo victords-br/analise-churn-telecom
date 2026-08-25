@@ -115,7 +115,7 @@ Análise completa dos dados com:
 
 ### 🔗 Acesse o Dashboard
 
-**Link dashboard:** [Ver dashboard](https://nqqrc44xbcasf6p5i6agwk.streamlit.app/)
+**Link dashboard:** [Ver Dashboard Interativo](https://nqqrc44xbcasf6p5i6agwk.streamlit.app/)
 
 </div>
 
@@ -190,7 +190,7 @@ Análise completa dos dados com:
 ### 🚀 Dashboard Interativo (Streamlit)
 
 
-**Link dashboard:** [Ver dashboard](https://nqqrc44xbcasf6p5i6agwk.streamlit.app/)
+**Link dashboard:** [Ver Dashboard Interativo](https://nqqrc44xbcasf6p5i6agwk.streamlit.app/)
 
 
 ### 📁 Dados e Código
