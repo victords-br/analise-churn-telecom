@@ -185,13 +185,7 @@ Análise completa dos dados com:
 | Formato | Ação | Vantagem |
 |---------|------|----------|
 | **📓 Notebook (.ipynb)** | [🔍 Visualizar no GitHub](https://github.com/VictorDevAgencia74/analise-churn-telecom/blob/main/notbooks/01_limpeza_tratamento.ipynb) | Código executável, melhor para recrutadores |
-| **📄 PDF do Notebook** | [⬇️ Baixar PDF](https://raw.githubusercontent.com/VictorDevAgencia74/analise-churn-telecom/main/dashboard/analise_churn_notebook.pdf) | Para leitura rápida, sem código |
 
-### 📊 Dashboard
-
-| Formato | Ação |
-|---------|------|
-| **📄 PDF do Dashboard** | [🔍 Visualizar](https://github.com/VictorDevAgencia74/analise-churn-telecom/blob/main/dashboard/dashboard_churn.pdf) / [⬇️ Baixar](https://raw.githubusercontent.com/VictorDevAgencia74/analise-churn-telecom/main/dashboard/dashboard_churn.pdf) |
 
 ### 🚀 Dashboard Interativo (Streamlit)
 
